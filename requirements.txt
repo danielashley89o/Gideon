@@ -1,0 +1,6 @@
+torch
+tiktoken
+requests
+numpy
+matplotlib
+jupyterlab
