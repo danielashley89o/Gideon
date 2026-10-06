@@ -3,3 +3,19 @@ __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
+
+# Model weights and checkpoints (too large for GitHub)
+*.pth
+*.safetensors
+*.part
+gpt2/
+
+# Downloaded datasets and generated outputs
+sms_spam_collection/
+sms_spam_collection.zip
+train.csv
+validation.csv
+test.csv
+instruction-data.json
+instruction-data-with-response.json
+*.pdf
