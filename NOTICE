@@ -1,0 +1,12 @@
+This project contains code adapted from "LLMs-from-scratch" by Sebastian Raschka
+(https://github.com/rasbt/LLMs-from-scratch), the companion repository to the book
+"Build a Large Language Model (From Scratch)" (Manning, 2024).
+
+Copyright 2023-2026 Sebastian Raschka
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Changes in this repository: the book's notebook code has been reorganized into
+per-chapter Python modules that import from one another, and GPT-2 weights are
+loaded from Hugging Face safetensors instead of the original TensorFlow checkpoint.
+
+the-verdict.txt is "The Verdict" by Edith Wharton (1908), which is in the public domain.

@@ -3,7 +3,6 @@ tiktoken
 requests
 numpy
 matplotlib
-jupyterlab
 pandas
 safetensors
 tqdm
