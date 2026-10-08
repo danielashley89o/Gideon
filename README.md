@@ -1,6 +1,6 @@
 # Gideon: a GPT built from scratch
 
-Sebastian Raschka's book *[Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)*. I have transformed this into something epic.
+Sebastian Raschka's book provided the baseline for this AI *[Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)*. I have transformed this into something epic.
 
 ## Files
 
