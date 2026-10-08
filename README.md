@@ -1,6 +1,6 @@
 # Gideon: a GPT built from scratch
 
-My work through Sebastian Raschka's book *[Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)*. It builds a GPT-2-style model in PyTorch, pretrains it on a small text, loads OpenAI's GPT-2 weights, and fine-tunes it for spam classification and for following instructions.
+Sebastian Raschka's book *[Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)*. I have transformed this into something epic.
 
 ## Files
 
